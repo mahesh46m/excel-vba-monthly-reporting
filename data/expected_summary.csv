@@ -1,0 +1,11 @@
+dimension,member,total_amount
+category,Hardware,125623.7
+category,Services,132399.31
+category,Software,104778.05
+category,Support,140613.45
+category,Training,141715.65
+region,East,176521.61
+region,North,161791.0
+region,South,151321.53
+region,West,155496.02
+overall,all,645130.16
